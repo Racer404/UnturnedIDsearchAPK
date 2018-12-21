@@ -1,4 +1,8 @@
 # UnturnedIDsearchAPK
+1.1
+加入了英文ID的activity
+并且连接到了自费数据库
+
 1.0
 目前只有中文，UnturnedID查询小工具
 
