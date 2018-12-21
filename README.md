@@ -1,4 +1,5 @@
 # UnturnedIDsearchAPK
+1.0
 目前只有中文，UnturnedID查询小工具
 
 哈喽我是Racer
